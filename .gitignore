@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+kaggle.json
+
+# Testing & quality tools
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Raw datasets (keep directory structure via .gitkeep, keep demo data/sample_inbox.json)
+data/raw/*
+!data/raw/.gitkeep
+*.csv
+*.mbox
+
+# Trained ML models (binary artifacts generated via python -m scripts.train)
+models/*
+!models/.gitkeep
+
+# Generated output / runtime trackers
+output/*
+!output/.gitkeep
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini

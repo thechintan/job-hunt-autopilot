@@ -1,0 +1,1 @@
+# This file ensures models directory is tracked by git while binary model files (*.joblib) are ignored.

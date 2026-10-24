@@ -1,0 +1,1 @@
+# This file ensures output directory is tracked by git while runtime tracker artifacts (*.json) are ignored.

@@ -1,0 +1,1 @@
+# This file ensures data/raw directory is tracked by git while raw datasets (*.csv, *.json) are ignored.

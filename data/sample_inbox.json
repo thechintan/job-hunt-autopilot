@@ -1,0 +1,182 @@
+[
+    {
+        "id": "e01",
+        "from_name": "Acme Robotics Careers",
+        "from_email": "careers@acmerobotics.com",
+        "to": "me@example.com",
+        "subject": "Application received: Backend Engineer",
+        "date": "2026-10-05T10:12:00+05:30",
+        "body": "Hi, thank you for applying for the Backend Engineer position at Acme Robotics. We have received your application and our team will review it. If your profile matches, we will reach out. Regards, Acme Robotics Talent Team"
+    },
+    {
+        "id": "e02",
+        "from_name": "Zenith Tech HR",
+        "from_email": "hr@zenithtech.io",
+        "to": "me@example.com",
+        "subject": "Thanks for applying - Data Analyst",
+        "date": "2026-10-06T09:30:00+05:30",
+        "body": "Dear candidate, we have received your application for the Data Analyst role at Zenith Tech. Our recruiters are reviewing applications and will be in touch."
+    },
+    {
+        "id": "e03",
+        "from_name": "Zenith Tech HR",
+        "from_email": "hr@zenithtech.io",
+        "to": "me@example.com",
+        "subject": "Interview invitation - Data Analyst",
+        "date": "2026-10-12T16:05:00+05:30",
+        "body": "Hi, we liked your profile and would like to invite you for a technical interview for the Data Analyst role. Please pick a slot for 15 or 16 October on our scheduling link: https://zenithtech.io/schedule. The interview will be on Google Meet."
+    },
+    {
+        "id": "e04",
+        "from_name": "Nimbus Cloud Recruiting",
+        "from_email": "jobs@nimbuscloud.com",
+        "to": "me@example.com",
+        "subject": "We received your application - DevOps Engineer",
+        "date": "2026-10-08T11:00:00+05:30",
+        "body": "Thank you for your interest in the DevOps Engineer position at Nimbus Cloud. Your application has been submitted successfully."
+    },
+    {
+        "id": "e05",
+        "from_name": "Nimbus Cloud Recruiting",
+        "from_email": "jobs@nimbuscloud.com",
+        "to": "me@example.com",
+        "subject": "Update on your application - DevOps Engineer",
+        "date": "2026-10-15T14:20:00+05:30",
+        "body": "Dear candidate, thank you for taking the time to apply. After careful consideration, we regret to inform you that we have decided to move forward with other candidates for the DevOps Engineer role. We wish you the best in your job search."
+    },
+    {
+        "id": "e06",
+        "from_name": "Orbit Labs Talent",
+        "from_email": "talent@orbitlabs.co",
+        "to": "me@example.com",
+        "subject": "Application received: Full Stack Developer",
+        "date": "2026-10-03T10:45:00+05:30",
+        "body": "Hello, we have received your application for the Full Stack Developer role at Orbit Labs. We will get back to you shortly."
+    },
+    {
+        "id": "e07",
+        "from_name": "Orbit Labs Talent",
+        "from_email": "talent@orbitlabs.co",
+        "to": "me@example.com",
+        "subject": "Next steps: interview schedule - Full Stack Developer",
+        "date": "2026-10-09T12:10:00+05:30",
+        "body": "Hi, congratulations on moving to the next round. We would like to schedule a video interview with our engineering manager. Please share your availability for the coming week."
+    },
+    {
+        "id": "e08",
+        "from_name": "Orbit Labs Talent",
+        "from_email": "talent@orbitlabs.co",
+        "to": "me@example.com",
+        "subject": "Offer letter - Full Stack Developer at Orbit Labs",
+        "date": "2026-10-18T17:40:00+05:30",
+        "body": "Dear candidate, we are delighted to extend an offer for the Full Stack Developer position at Orbit Labs. Please find the offer letter attached with compensation details. Kindly confirm your acceptance by 25 October."
+    },
+    {
+        "id": "e09",
+        "from_name": "Pixelwave Careers",
+        "from_email": "careers@pixelwave.dev",
+        "to": "me@example.com",
+        "subject": "Application received: QA Engineer",
+        "date": "2026-10-20T09:15:00+05:30",
+        "body": "Thanks for applying to the QA Engineer role at Pixelwave. We have received your application and will review it soon."
+    },
+    {
+        "id": "e10",
+        "from_name": "Kiran Foods HR",
+        "from_email": "hr@kiranfoods.in",
+        "to": "me@example.com",
+        "subject": "Application received: Operations Manager",
+        "date": "2026-10-10T13:00:00+05:30",
+        "body": "Dear applicant, we acknowledge receipt of your application for the Operations Manager position at Kiran Foods Pvt Ltd. Shortlisted candidates will be contacted."
+    },
+    {
+        "id": "e11",
+        "from_name": "Finlytics Hiring",
+        "from_email": "hiring@finlytics.com",
+        "to": "me@example.com",
+        "subject": "Application received: Business Analyst",
+        "date": "2026-10-07T10:00:00+05:30",
+        "body": "Hi, thank you for applying for the Business Analyst role at Finlytics. Your application has been received."
+    },
+    {
+        "id": "e12",
+        "from_name": "Finlytics Hiring",
+        "from_email": "hiring@finlytics.com",
+        "to": "me@example.com",
+        "subject": "Your application to Finlytics - Business Analyst",
+        "date": "2026-10-14T15:30:00+05:30",
+        "body": "Thank you for your interest in Finlytics. Unfortunately, we will not be moving forward with your application for the Business Analyst position at this time. We encourage you to apply for future openings."
+    },
+    {
+        "id": "e13",
+        "from_name": "Cloudbase Recruiting",
+        "from_email": "recruiting@cloudbase.tech",
+        "to": "me@example.com",
+        "subject": "Application received: Site Reliability Engineer",
+        "date": "2026-10-09T11:25:00+05:30",
+        "body": "Thank you for applying for the Site Reliability Engineer role at Cloudbase. We have received your application."
+    },
+    {
+        "id": "e14",
+        "from_name": "Cloudbase Recruiting",
+        "from_email": "recruiting@cloudbase.tech",
+        "to": "me@example.com",
+        "subject": "Interview invite: Site Reliability Engineer",
+        "date": "2026-10-16T10:50:00+05:30",
+        "body": "Hi, we would like to invite you to a first-round interview for the Site Reliability Engineer role. Please confirm a time that works for you from the calendar link we have shared."
+    },
+    {
+        "id": "e15",
+        "from_name": "Brightlane Careers",
+        "from_email": "careers@brightlane.com",
+        "to": "me@example.com",
+        "subject": "Application received: Product Analyst",
+        "date": "2026-10-12T09:50:00+05:30",
+        "body": "Thank you for applying for the Product Analyst role at Brightlane. We have received your application and will review it."
+    },
+    {
+        "id": "e16",
+        "from_name": "TCS HR Department",
+        "from_email": "tcs.hr.recruitment2026@gmail.com",
+        "to": "me@example.com",
+        "subject": "CONGRATULATIONS! Selected for TCS - Registration Fee Required",
+        "date": "2026-10-11T08:05:00+05:30",
+        "body": "Dear candidate, you are SELECTED for the post of Data Entry Executive at TCS without interview. Salary Rs 45,000 per month. To confirm your joining, pay a refundable registration fee of Rs 4,500 to the account below within 24 hours. Offer will be cancelled otherwise. Account: 9182XXXXXXXX, IFSC: XXXX0001234."
+    },
+    {
+        "id": "e17",
+        "from_name": "Priya - HR Executive",
+        "from_email": "priya.hrexec.jobs@yahoo.com",
+        "to": "me@example.com",
+        "subject": "Work from home job - urgent joining",
+        "date": "2026-10-13T19:20:00+05:30",
+        "body": "Hello, we found your resume on a job portal. Work from home job, earn Rs 3000 per day, no experience needed. Message us on WhatsApp +91 90000 00000 now. For verification please send a photo of your Aadhaar card, PAN card and bank passbook. Limited seats, apply today."
+    },
+    {
+        "id": "e18",
+        "from_name": "Rahul Sharma",
+        "from_email": "rahul.careers.hr@outlook.com",
+        "to": "me@example.com",
+        "subject": "Aapka selection ho gaya hai!",
+        "date": "2026-10-17T21:10:00+05:30",
+        "body": "Namaste! Aapka selection ho gaya hai hamari company mein Customer Support ke liye. Joining se pehle training fee Rs 2999 UPI se turant bhej dijiye, ye refundable hai. Aur apna Aadhaar number aur OTP bhi share karein. Jaldi karein, sirf aaj ka offer hai."
+    },
+    {
+        "id": "e19",
+        "from_name": "Google Careers Team",
+        "from_email": "google.careers.offer@gmail.com",
+        "to": "me@example.com",
+        "subject": "Official Offer Letter - Software Engineer, Google India",
+        "date": "2026-10-19T07:45:00+05:30",
+        "body": "Dear Candidate, Google India is pleased to offer you the position of Software Engineer with a package of 38 LPA. No interview is required as your profile was pre-selected. To process your visa and onboarding kit, send a scanned copy of your passport and pay a security deposit of Rs 15,000 for the laptop. Contact our onboarding officer on Telegram @google_onboard_hr."
+    },
+    {
+        "id": "e20",
+        "from_name": "LinkedIn Job Alerts",
+        "from_email": "jobalerts-noreply@linkedin.com",
+        "to": "me@example.com",
+        "subject": "12 new jobs for Software Engineer in Ahmedabad",
+        "date": "2026-10-22T06:00:00+05:30",
+        "body": "Here are new jobs that match your preferences: Software Engineer at various companies in Ahmedabad. View jobs and apply on LinkedIn. Unsubscribe or manage your alert settings."
+    }
+]
